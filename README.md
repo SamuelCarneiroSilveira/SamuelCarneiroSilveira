@@ -3,8 +3,10 @@
 I'm a mechatronics engeneering student at UTFPR - Curitiba/Brazil
 
 Portuguese: Native language
+
 English: concluding my english course 07/2024
-Toic grade: 
+
+Toic grade:  
 
 - 🌱 I’m currently learning Python, and Cpp
 - 📫 Mail samuelcarneirosilveira@gmail.com 

@@ -8,12 +8,12 @@ English: concluding my english course 07/2024
 
 Toic grade: 920
 
-- 🌱 I’m currently learning Python, and Cpp
+- 🌱 I’m currently learning Python and Cpp
 - 📫 Mail samuelcarneirosilveira@gmail.com 
 - 🔗 Linkedin Samuel Carneiro Silveira
 - 📷 Instagram @silveira_sc / @carneiro_mechatronics  
 
-Got in touch with
+Experience with
 * Gpio devices such as Esp32/RaspberryPi/Arduino
 * C and Cpp for microcontrollers
    *pwm, timers, I2C, Uart serial, EspNow, Bluetooth

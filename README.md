@@ -6,7 +6,7 @@ Portuguese: Native language
 
 English: concluding my english course 07/2024
 
-Toic grade:  
+Toic grade: 920
 
 - 🌱 I’m currently learning Python, and Cpp
 - 📫 Mail samuelcarneirosilveira@gmail.com 
@@ -16,9 +16,9 @@ Toic grade:
 Got in touch with
 * Gpio devices such as Esp32/RaspberryPi/Arduino
 * C and Cpp for microcontrollers
-   *gpio, pwm, timers, I2C, Uart serial, EspNow, Bluetooth
+   *pwm, timers, I2C, Uart serial, EspNow, Bluetooth
 * Rtos basics
-* Linux and Linux without graphical interface
+* Linux and Linux cli
 * Shell-Script
 * Java
 * Scrum
